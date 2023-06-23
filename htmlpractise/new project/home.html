@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>home</title>
+        <link rel="stylesheet" href="design.css">
+    </head>
+    <body class="colordes">
+        <div class="borders">
+            <p class="para">Calculator</p>
+            <hr>
+            <form name="Calculator" class = "Calculator" >  
+            <table class="tdesign" cellpadding="15" cellspacing="12">
+                <tr>
+                    <td>
+                        <input type="text" name="Input" size="30" id="display" class="inputdesign">
+                        <br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="button" name="seven" value="7" OnClick="Calculator.Input.value += '7'" class="inde">
+                        <input type="button" name="eight" value="8" Onclick="Calculator.Input.value += '8'" class="inde">
+                        <input type="button" name="nine" value="2" Onclick="Calculator.Input.value += '9'" class="inde">
+                        <input type="button" name="add" class ="btnTop" value=" + " OnClick="Calculator.Input.value += ' + '" class="inde"> 
+                        <br>
+                        <input type="button" name="four" value="4" Onclick="Calculator.Input.value += '4'" class="inde">
+                        <input type="button" name="five" value="5" Onclick="Calculator.Input.value += '5'" class="inde">
+                        <input type="button" name="six" value="6" Onclick="Calculator.Input.value += '6'" class="inde">
+                        <input type="button" name="sub" class ="btnTop" value=" - " OnClick="Calculator.Input.value += ' - '" class="inde"> 
+
+                        <br>
+                        <input type="button" name="one" value="1" Onclick="Calculator.Input.value += '1'" class="inde">
+                        <input type="button" name="two" value="2" Onclick="Calculator.Input.value += '2'" class="inde">
+                        <input type="button" name="three" value="3" Onclick="Calculator.Input.value += '3'" class="inde">
+                        <input type="button" name="multi" class ="btnTop" value=" * " OnClick="Calculator.Input.value += ' * '" class="inde"> 
+                        <br>
+                        <input type="button" name="clear" value="C" Onclick="Calculator.Input.value += ''" class="inde">
+                        <input type="button" name="zero" value="0" Onclick="Calculator.Input.value += '0'" class="inde">
+                        <input type="button" name="cal" value=" = " OnClick="Calculator.Input.value = eval(Calculator.Input.value)" class="inde">  
+                        <input type="button" name="divide" value="/" Onclick="Calculator.Input.value += '/'" class="inde">
+
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </body>
+</html>

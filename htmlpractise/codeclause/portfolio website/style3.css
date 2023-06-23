@@ -1,0 +1,248 @@
+.bg{
+    background-image: url("image/bg4.jfif");
+}
+.linked{
+    text-decoration: none;
+    color: lightskyblue;
+}
+.de1{
+    border: 2px solid white;
+    margin: 18px ;
+    width: 1300px;
+    height: 2734px;
+}
+.logo{
+    color: lightskyblue;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-left: 35px;
+    margin-top: -32px;
+}
+.instalogo{
+    width: 29px;
+    margin-left: 29px;
+    margin-top: 28px;
+    margin-bottom: -5px;
+}
+.img1{
+    margin-top: -42px;
+    margin-right: 7px;
+    width: 33px;
+    height: 24px;
+}
+.navi{
+    font-size: 25px;
+    display: inline flex;
+    margin-top: 13px;
+    margin-left: 720px;
+}
+.navi a{
+    text-decoration: none;
+    color:lightskyblue;
+}
+.navi a:hover{
+    transform: translateX(-.5rem);
+    translate: .5s ease;
+    color:indianred;
+}
+.head3{
+    color: lightskyblue;
+    font-size: 45px;
+    margin-left: 570px;
+    margin-top: 52px;
+}
+.pro1{
+    border: 1px solid;
+    width: 380px;
+    height: 430px;
+    margin-left: 120px;
+}
+.heading1{
+    margin-top: 255px;
+    color: lightskyblue;
+    font-size: 21px;
+    margin-left: 12px;
+}
+.heading11{
+    margin-top: 225px;
+    color: lightskyblue;
+    font-size: 21px;
+    margin-left: 12px;
+}
+.para5{
+    margin-top: 75px;
+    margin-left: 12px;
+    margin-right: 12px;
+    color: lightskyblue;
+    font-size: 19px;
+    text-align: justify;
+}
+.img2{
+    width: 330px;
+    height: 195px;
+    margin-top: 10px;
+    margin-left: 1px;
+}
+.pro11{
+    
+    width: 330px;
+    height: 190px;
+    margin-top: -270px;
+}
+.pro2{
+    border: 1px solid ;
+    width: 380px;
+    height: 430px;
+    margin-left: 820px;
+}
+.heading2{
+    margin-top: 120px;
+    color: lightskyblue;
+    font-size: 21px;
+    margin-left: 12px;
+}
+.para6{
+    margin-top: 75px;
+    margin-left: 12px;
+    margin-right: 12px;
+    color: lightskyblue;
+    font-size: 19px;
+    text-align: justify;
+}
+.img3{
+    width: 330px;
+    height: 195px;
+    margin-top: 10px;
+    margin-left: 1px;
+}
+.pro12{
+    
+    width: 330px;
+    height: 190px;
+    margin-top: -150px;
+}
+.span1{
+    float: left;
+    color: lightskyblue;
+    font-size: 45px;
+    margin-top: 102px;
+    margin-left: 480px;
+
+}
+.pro3{
+    border: 1px solid ;
+    width: 380px;
+    height: 430px;
+    margin-left: 120px;
+}
+.heading3{
+    margin-top: 460px;
+    color: lightskyblue;
+    font-size: 21px;
+    margin-left: 12px;
+}
+.para7{
+    margin-top: 25px;
+    margin-left: 12px;
+    margin-right: 12px;
+    color: lightskyblue;
+    font-size: 19px;
+    text-align: justify;
+}
+.img4{
+    width: 330px;
+    height: 195px;
+    margin-top: -150px;
+    margin-left: 1px;
+}
+.pro13{
+    
+    width: 310px;
+    height: 150px;
+    margin-top: -200px;
+}
+.pro4{
+    float: left;
+    border: 1px solid ;
+    width: 380px;
+    height: 430px;
+    margin-left: 540px;
+}
+.heading4{
+    margin-top: 23px;
+    color: lightskyblue;
+    font-size: 21px;
+    margin-left: 12px;
+}
+.para8{
+    margin-top: 25px;
+    margin-left: 12px;
+    margin-right: 12px;
+    color: lightskyblue;
+    font-size: 19px;
+    text-align: justify;
+}
+.img5{
+    width: 330px;
+    height: 195px;
+    margin-top: -150px;
+    margin-left: 1px;
+}
+.pro14{
+    
+    width: 310px;
+    height: 150px;
+    margin-top: -196px;
+}
+.footer{
+    border: 1px solid whitesmoke;
+    margin-top: 450px;
+    height: 340px;
+    background-color: whitesmoke;
+}
+.insider{
+    border: 1px solid whitesmoke;
+    margin: 17px;
+    height: 260px;
+}
+.inside-name{
+    font-size: 24px;
+    font-weight: bolder;
+    margin-top: 78px; 
+    margin-left: 10px;
+}
+.inside-para{
+    border: 1px solid whitesmoke;
+    width: 480px;
+    height: 70px;
+    font-size: 18px;
+    margin-top: -12px;
+    margin-left: 10px;
+    text-align: justify;
+}
+.inside-social{
+    margin-left: 930px;
+    margin-top: -144px;
+    font-size: 22px;
+}
+.inside-insta{
+    width: 29px;
+    margin-left: 29px;
+    margin-top: 28px;
+    margin-bottom: -5px;
+}
+.inside-logo{
+    margin-left: 890px;
+    margin-top: -30px;
+}
+.insider-line{
+    border: 1px solid black;
+    margin-top: -27px;
+    width: 1080px;
+    margin-left: 100px;
+}
+.copyright{
+    color: black;
+    font-size: 17px;
+    margin-left: 490px;
+}

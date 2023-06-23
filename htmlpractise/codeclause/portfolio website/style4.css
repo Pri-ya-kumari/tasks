@@ -1,0 +1,126 @@
+.bg{
+    background-image: url("image/bg4.jfif");
+}
+.linked{
+    text-decoration: none;
+    color: lightskyblue;
+}
+.de1{
+    border: 2px solid white;
+    margin: 18px ;
+    width: 1300px;
+    height: 910px;
+}
+.logo{
+    color: lightskyblue;
+    font-size: 25px;
+    font-weight: lighter;
+    margin-left: 35px;
+    margin-top: -32px;
+}
+.instalogo{
+    width: 29px;
+    margin-left: 29px;
+    margin-top: 28px;
+    margin-bottom: -5px;
+}
+.img1{
+    margin-top: -42px;
+    margin-right: 7px;
+    width: 33px;
+    height: 24px;
+}
+.navi{
+    font-size: 25px;
+    display: inline flex;
+    margin-top: 13px;
+    margin-left: 720px;
+}
+.navi a{
+    text-decoration: none;
+    color:lightskyblue;
+}
+.navi a:hover{
+    transform: translateX(-.5rem);
+    translate: .5s ease;
+    color:indianred;
+}
+.contact{
+    margin-top: 10px;
+}
+.cont{
+    float: left;
+    color: lightskyblue;
+    font-size: 45px;
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.cont1{
+    float: left;
+    margin-top: 320px;
+    margin-left: -290px;
+    border: 1px solid ;
+    border-radius: 50px;
+    width: 420px;
+    height: 80px;
+    background-color: whitesmoke;
+    font-size: 25px;
+    padding-top: 45px;
+    text-align: center;
+    color: black;
+}
+.cont1:hover{   
+    color: crimson;
+}
+.footer{
+    border: 1px solid whitesmoke;
+    margin-top: 510px;
+    height: 340px;
+    background-color: whitesmoke;
+}
+.insider{
+    border: 1px solid whitesmoke;
+    margin: 17px;
+    height: 260px;
+}
+.inside-name{
+    font-size: 24px;
+    font-weight: bolder;
+    margin-top: 78px; 
+    margin-left: 10px;
+}
+.inside-para{
+    border: 1px solid whitesmoke;
+    width: 480px;
+    height: 70px;
+    font-size: 18px;
+    margin-top: -12px;
+    margin-left: 10px;
+    text-align: justify;
+}
+.inside-social{
+    margin-left: 930px;
+    margin-top: -144px;
+    font-size: 22px;
+}
+.inside-insta{
+    width: 29px;
+    margin-left: 29px;
+    margin-top: 28px;
+    margin-bottom: -5px;
+}
+.inside-logo{
+    margin-left: 890px;
+    margin-top: -30px;
+}
+.insider-line{
+    border: 1px solid black;
+    margin-top: -27px;
+    width: 1080px;
+    margin-left: 100px;
+}
+.copyright{
+    color: black;
+    font-size: 17px;
+    margin-left: 490px;
+}
